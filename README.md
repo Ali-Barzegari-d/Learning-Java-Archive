@@ -4,7 +4,7 @@ This repository contains a collection of Java practice exercises that I have wri
 
 ## 📂 Project Structure
 
-The project is organized into various folders based on different topics and concepts in Java. Each folder contains Java code files that focus on specific programming concepts or techniques.
+The project is organized into various files based on different topics and concepts in Java. Each file contains Java code that focus on specific programming concepts or techniques.
 
 ### Categories include:
 - **Basic Syntax**: Programs that focus on the basic syntax and structure of Java.
